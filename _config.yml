@@ -9,7 +9,7 @@
 title: Devyunsy 개발 블로그
 # It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 description: Android, iOS 개발자의 블로그입니다
-baseurl: ""
+baseurl: "/blog"
 paginate: 5
 
 # Build settings
