@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Data Binding Guide(1)
-date:   2016-04-06
+date:   2016-03-19
 categories: Android
 ---
 
